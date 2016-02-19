@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: fcf746abacc8ff743a40b1a9b6a2badb
+timeCreated: 1455914689
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_0
+    21300002: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_1
+    21300004: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_2
+    21300006: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_3
+    21300008: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_4
+    21300010: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_5
+    21300012: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_6
+    21300014: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_7
+    21300016: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_8
+    21300018: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_9
+    21300020: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_10
+    21300022: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_11
+    21300024: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_12
+    21300026: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_13
+    21300028: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_14
+    21300030: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_15
+    21300032: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_16
+    21300034: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_17
+    21300036: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_18
+    21300038: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_19
+    21300040: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_20
+    21300042: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_21
+    21300044: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_22
+    21300046: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_23
+    21300048: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_24
+    21300050: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_25
+    21300052: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_26
+    21300054: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_27
+    21300056: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_28
+    21300058: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_29
+    21300060: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_30
+    21300062: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_31
+    21300064: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_32
+    21300066: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_33
+    21300068: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_34
+    21300070: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_35
+    21300072: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_36
+    21300074: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_37
+    21300076: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_38
+    21300078: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_39
+    21300080: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_40
+    21300082: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_41
+    21300084: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_42
+    21300086: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_43
+    21300088: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_44
+    21300090: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_45
+    21300092: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_46
+    21300094: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_47
+    21300096: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_48
+    21300098: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_49
+    21300100: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_50
+    21300102: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_51
+    21300104: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_52
+    21300106: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_53
+    21300108: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_54
+    21300110: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_55
+    21300112: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_56
+    21300114: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_57
+    21300116: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_58
+    21300118: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_59
+    21300120: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_60
+    21300122: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_61
+    21300124: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_62
+    21300126: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_63
+    21300128: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_64
+    21300130: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_65
+    21300132: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_66
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 509
+        width: 186
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 509
+        width: 184
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_2
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 568
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 568
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_4
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 568
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 568
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_6
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 566
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_7
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 568
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 553
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 553
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_10
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 552
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_11
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 552
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_12
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 552
+        width: 52
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 537
+        width: 62
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_14
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 538
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_15
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 525
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_16
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 525
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_17
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 524
+        width: 60
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 414
+        width: 187
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 414
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 414
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_21
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 414
+        width: 15
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_22
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 414
+        width: 92
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 325
+        width: 187
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_24
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 325
+        width: 185
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_25
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 325
+        width: 185
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_26
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 234
+        width: 185
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_27
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 234
+        width: 185
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_28
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 234
+        width: 185
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 165
+        width: 182
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 165
+        width: 144
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_31
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 119
+        width: 189
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 123
+        width: 86
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_33
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 127
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_34
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 127
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_35
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 114
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_36
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 122
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_37
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 123
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_38
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_39
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 76
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_40
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 76
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_41
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 76
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_42
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 77
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_43
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 71
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_44
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 77
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_45
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 69
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_46
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 75
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 74
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_48
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 75
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_49
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 75
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_50
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 74
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 74
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_52
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 71
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_53
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 72
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_54
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 72
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_55
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 71
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_56
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 25
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_57
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 32
+        width: 47
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_58
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 19
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_59
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 13
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_60
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 13
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_61
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 14
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_62
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 13
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_63
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 13
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_64
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 14
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_65
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 17
+        width: 36
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Arcade - Street Fighter II - Bonus Stage Car Super Street Fighter II_66
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 18
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

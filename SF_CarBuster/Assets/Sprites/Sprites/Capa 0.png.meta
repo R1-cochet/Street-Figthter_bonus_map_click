@@ -1,0 +1,1299 @@
+fileFormatVersion: 2
+guid: f9ff08ab0b602fd4381dbce678771528
+timeCreated: 1455915582
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Capa 0_0
+    21300002: Capa 0_1
+    21300004: Capa 0_2
+    21300006: Capa 0_3
+    21300008: Capa 0_4
+    21300010: Capa 0_5
+    21300012: Capa 0_6
+    21300014: Capa 0_7
+    21300016: Capa 0_8
+    21300018: Capa 0_9
+    21300020: Capa 0_10
+    21300022: Capa 0_11
+    21300024: Capa 0_12
+    21300026: Capa 0_13
+    21300028: Capa 0_14
+    21300030: Capa 0_15
+    21300032: Capa 0_16
+    21300034: Capa 0_17
+    21300036: Capa 0_18
+    21300038: Capa 0_19
+    21300040: Capa 0_20
+    21300042: Capa 0_21
+    21300044: Capa 0_22
+    21300046: Capa 0_23
+    21300048: Capa 0_24
+    21300050: Capa 0_25
+    21300052: Capa 0_26
+    21300054: Capa 0_27
+    21300056: Capa 0_28
+    21300058: Capa 0_29
+    21300060: Capa 0_30
+    21300062: Capa 0_31
+    21300064: Capa 0_32
+    21300066: Capa 0_33
+    21300068: Capa 0_34
+    21300070: Capa 0_35
+    21300072: Capa 0_36
+    21300074: Capa 0_37
+    21300076: Capa 0_38
+    21300078: Capa 0_39
+    21300080: Capa 0_40
+    21300082: Capa 0_41
+    21300084: Capa 0_42
+    21300086: Capa 0_43
+    21300088: Capa 0_44
+    21300090: Capa 0_45
+    21300092: Capa 0_46
+    21300094: Capa 0_47
+    21300096: Capa 0_48
+    21300098: Capa 0_49
+    21300100: Capa 0_50
+    21300102: Capa 0_51
+    21300104: Capa 0_52
+    21300106: Capa 0_53
+    21300108: Capa 0_54
+    21300110: Capa 0_55
+    21300112: Capa 0_56
+    21300114: Capa 0_57
+    21300116: Capa 0_58
+    21300118: Capa 0_59
+    21300120: Capa 0_60
+    21300122: Capa 0_61
+    21300124: Capa 0_62
+    21300126: Capa 0_63
+    21300128: Capa 0_64
+    21300130: Capa 0_65
+    21300132: Capa 0_66
+    21300134: Capa 0_67
+    21300136: Capa 0_68
+    21300138: Capa 0_69
+    21300140: Capa 0_70
+    21300142: Capa 0_71
+    21300144: Capa 0_72
+    21300146: Capa 0_73
+    21300148: Capa 0_74
+    21300150: Capa 0_75
+    21300152: Capa 0_76
+    21300154: Capa 0_77
+    21300156: Capa 0_78
+    21300158: Capa 0_79
+    21300160: Capa 0_80
+    21300162: Capa 0_81
+    21300164: Capa 0_82
+    21300166: Capa 0_83
+    21300168: Capa 0_84
+    21300170: Capa 0_85
+    21300172: Capa 0_86
+    21300174: Capa 0_87
+    21300176: Capa 0_88
+    21300178: Capa 0_89
+    21300180: Capa 0_90
+    21300182: Capa 0_91
+    21300184: Capa 0_92
+    21300186: Capa 0_93
+    21300188: Capa 0_94
+    21300190: Capa 0_95
+    21300192: Capa 0_96
+    21300194: Capa 0_97
+    21300196: Capa 0_98
+    21300198: Capa 0_99
+    21300200: Capa 0_100
+    21300202: Capa 0_101
+    21300204: Capa 0_102
+    21300206: Capa 0_103
+    21300208: Capa 0_104
+    21300210: Capa 0_105
+    21300212: Capa 0_106
+    21300214: Capa 0_107
+    21300216: Capa 0_108
+    21300218: Capa 0_109
+    21300220: Capa 0_110
+    21300222: Capa 0_111
+    21300224: Capa 0_112
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Capa 0_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1495
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1494
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1496
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1497
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1495
+        width: 71
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_5
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1495
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_6
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1497
+        width: 100
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_7
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1488
+        width: 105
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1379
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1379
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1380
+        width: 67
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1380
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_12
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1380
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1380
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_14
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1380
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_15
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1380
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_16
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1380
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1380
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1276
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1277
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_20
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1277
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1167
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_22
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1167
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1168
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_24
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1167
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_25
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1168
+        width: 50
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1170
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_27
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1170
+        width: 53
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_28
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1171
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_29
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1170
+        width: 71
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_30
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1171
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_31
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1172
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1059
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1061
+        width: 58
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_34
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1060
+        width: 73
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_35
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1060
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_36
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1060
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_37
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1061
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_38
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1059
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_39
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1059
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_40
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1061
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_41
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1059
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_42
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1057
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_43
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1056
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_44
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 951
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_45
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 947
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_46
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 947
+        width: 55
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_47
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 947
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_48
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 948
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_49
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 951
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 831
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_51
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 831
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_52
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 831
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_53
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 831
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_54
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 823
+        width: 60
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_55
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 824
+        width: 52
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_56
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 824
+        width: 39
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_57
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 829
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 698
+        width: 47
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_59
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 701
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_60
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 697
+        width: 49
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_61
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 699
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_62
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 706
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_63
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 698
+        width: 61
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_64
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 698
+        width: 44
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_65
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 699
+        width: 47
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_66
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 699
+        width: 57
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_67
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 705
+        width: 51
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_68
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 705
+        width: 52
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_69
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 591
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_70
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 595
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_71
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 596
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_72
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 596
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_73
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 595
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_74
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 596
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_75
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 596
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_76
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 596
+        width: 86
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_77
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 596
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_78
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 597
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_79
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 469
+        width: 45
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_80
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 472
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_81
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 485
+        width: 67
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_82
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 484
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_83
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 488
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_84
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 479
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_85
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 491
+        width: 93
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_86
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 319
+        width: 286
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_87
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 358
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_88
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 358
+        width: 58
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_89
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 359
+        width: 73
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_90
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 359
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_91
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 358
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_92
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 360
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_93
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 246
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_94
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 247
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_95
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 247
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_96
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 247
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_97
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 247
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_98
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 247
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_99
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 66
+        width: 233
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_100
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 138
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_101
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 139
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_102
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 139
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_103
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 135
+        width: 49
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_104
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 137
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_105
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 140
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_107
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 4
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_108
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 4
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_109
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 60
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_110
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 5
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_111
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 8
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Capa 0_112
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 207
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
