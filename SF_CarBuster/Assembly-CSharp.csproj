@@ -47,6 +47,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Exit.cs" />
+     <Compile Include="Assets\Scripts\Generador\Acierto.cs" />
+     <Compile Include="Assets\Scripts\Generador\Destructor.cs" />
+     <Compile Include="Assets\Scripts\Generador\Generador.cs" />
+     <Compile Include="Assets\Scripts\Generador\velocidadObjetos.cs" />
      <Compile Include="Assets\Scripts\Ken\Controls.cs" />
      <Compile Include="Assets\Scripts\Play.cs" />
  <Reference Include="UnityEngine.UI">
